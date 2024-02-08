@@ -1,0 +1,995 @@
+{
+    "status": "OK",
+    "request_id": "c6c87555-8240-4e03-bd56-85c57afa2f8e",
+    "parameters": {
+      "query": "python developer in texas, usa",
+      "page": 1,
+      "num_pages": 1
+    },
+    "data": [
+      {
+        "employer_name": "Patterned Learning AI",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "ZipRecruiter",
+        "job_id": "PQ5Tvzlj5cbYnvcvAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Junior Python Developer-US/Canada",
+        "job_apply_link": "https://www.ziprecruiter.com/c/Patterned-Learning-AI/Job/Junior-Python-Developer-US-Canada/-in-Houston,TX?jid=1c72a6a406337dcc",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6466,
+        "apply_options": [
+          {
+            "publisher": "ZipRecruiter",
+            "apply_link": "https://www.ziprecruiter.com/c/Patterned-Learning-AI/Job/Junior-Python-Developer-US-Canada/-in-Houston,TX?jid=1c72a6a406337dcc",
+            "is_direct": false
+          },
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/junior-python-developer-at-phoenix-recruiting-staffing-recruitment-3734205217",
+            "is_direct": false
+          },
+          {
+            "publisher": "Search Jobs - GoHire",
+            "apply_link": "https://jobs.gohire.io/patterned-learning-ai-b9qwy5ki/junior-python-developer-us-canada-145940/",
+            "is_direct": true
+          },
+          {
+            "publisher": "Jobgether",
+            "apply_link": "https://jobgether.com/offer/648b3cd353084a4c349b008b-junior-python-developer",
+            "is_direct": false
+          },
+          {
+            "publisher": "Recruit.net",
+            "apply_link": "https://www.recruit.net/job/python-developer-jobs/4C984CF26FDF99A3",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Junior Python Developer - US/Canada Residents only, Full-Time, Salary $75K-$85K\n\nMinimum 1 year of work experience - fully remote position. Freshers are also encouraged to apply.\n\nAbout us: The Future of AI is Patterned We are a stealth-mode technology startup that is revolutionizing the way AI is used. Our platform uses pattern recognition to train AI models that are more accurate, efficient, and robust than ever before.\n\nWe are backed by top investors and we are hiring for almost everything! If you are passionate about AI and want to be a part of something big, then we want to hear from you.\n\nMake a positive impact on the world. Be a part of a fast-growing startup. If you are interested, please visit our website.\n\nWe are looking for people who are:\n\nPassionate about AI.\n\nExcellent problem solvers.\n\nTeam players.\n\nDriven to succeed.\n\nResponsibilities:\n• Collaborate with senior developers to design and develop Python applications.\n• Write clean, efficient, and maintainable code that follows best practices.\n• Participate in code reviews and provide constructive feedback.\n• Debug and fix issues in the existing codebase.\n• Assist in testing and quality assurance processes.\n• Stay updated with the latest trends and technologies in Python development.\n\nRequirements:\n• Bachelor's degree in Computer Science, Software Engineering, or a related field.\n• Strong knowledge of Python programming language.\n• Familiarity with web frameworks such as Django or Flask.\n• Experience with version control systems, preferably Git.\n• Basic understanding of front-end technologies (HTML, CSS, JavaScript).\n• Good problem-solving and analytical skills.\n• Excellent communication and teamwork abilities.\n• Self-motivated and eager to learn.\n\nNice to have:\n• Experience with database systems such as MySQL, PostgreSQL, or MongoDB.\n• Knowledge of RESTful APIs and integration.\n• Familiarity with cloud platforms such as AWS or Azure.\n• Understanding of agile development methodologies.\n• Benefits\n\nSpecial Benefits you will love:\n• Flexible vacation, unlimited paid holidays, and paid sick days\n• 401(k) with up to 2% employer match\n• Health, vision, and dental insurance\n\nWhy Patterned Learning AI?\n\nPatterned Learning AI is made up of incredibly bright, mission-driven coworkers who are passionate about using technology to solve real-world problems---and we're growing quickly. In order to continue building an engaging and dynamic organization, we're committed to giving everyone the support they need to do great work.\n\nWe believe diverse perspectives and backgrounds are critical to building great technology, and our goal is to cultivate an environment where people feel equally valued and respected. Patterned Learning AI is proud to be an equal opportunity workplace, and we welcome applicants from all backgrounds regardless of race, color, ancestry, religion, gender identity or expression, sexual orientation, marital status, age, citizenship, socioeconomic status, disability, or veteran status.\n\nEmployment Type: FULL_TIME",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1696489200,
+        "job_posted_at_datetime_utc": "2023-10-05T07:00:00.000Z",
+        "job_city": "Houston",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 29.760427,
+        "job_longitude": -95.369804,
+        "job_benefits": [
+          "retirement_savings",
+          "paid_time_off",
+          "dental_coverage",
+          "health_insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=PQ5Tvzlj5cbYnvcvAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-11-07T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1699315200,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 12,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Minimum 1 year of work experience - fully remote position",
+            "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "Strong knowledge of Python programming language",
+            "Familiarity with web frameworks such as Django or Flask",
+            "Experience with version control systems, preferably Git",
+            "Basic understanding of front-end technologies (HTML, CSS, JavaScript)",
+            "Good problem-solving and analytical skills",
+            "Excellent communication and teamwork abilities",
+            "Self-motivated and eager to learn",
+            "Experience with database systems such as MySQL, PostgreSQL, or MongoDB",
+            "Knowledge of RESTful APIs and integration",
+            "Familiarity with cloud platforms such as AWS or Azure",
+            "Understanding of agile development methodologies"
+          ],
+          "Responsibilities": [
+            "Collaborate with senior developers to design and develop Python applications",
+            "Write clean, efficient, and maintainable code that follows best practices",
+            "Participate in code reviews and provide constructive feedback",
+            "Debug and fix issues in the existing codebase",
+            "Assist in testing and quality assurance processes",
+            "Stay updated with the latest trends and technologies in Python development"
+          ],
+          "Benefits": [
+            "Junior Python Developer - US/Canada Residents only, Full-Time, Salary $75K-$85K",
+            "Benefits",
+            "Flexible vacation, unlimited paid holidays, and paid sick days",
+            "401(k) with up to 2% employer match",
+            "Health, vision, and dental insurance"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "15-1132.00: Software Developers, Applications"
+        ]
+      },
+      {
+        "employer_name": "SynergisticIT",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "ZipRecruiter",
+        "job_id": "XWighWMc97OoKReOAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Entry Level Python Developer",
+        "job_apply_link": "https://www.ziprecruiter.com/c/SynergisticIT/Job/Entry-Level-Python-Developer/-in-Dallas,TX?jid=2b63fe81523a73bf",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6573,
+        "apply_options": [
+          {
+            "publisher": "ZipRecruiter",
+            "apply_link": "https://www.ziprecruiter.com/c/SynergisticIT/Job/Entry-Level-Python-Developer/-in-Dallas,TX?jid=2b63fe81523a73bf",
+            "is_direct": false
+          },
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/entry-level-python-developer-at-synergisticit-3677688983",
+            "is_direct": false
+          }
+        ],
+        "job_description": "SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out, you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need\n\nSynergisticIT understands the complex nature of the job market and how difficult it can be to secure a position, especially for fresh graduates. Therefore, we assist and help tech-savvies to convert their passions into professions. We go above and beyond to keep you working in your niche.\ns we focus on long-term success, we provide complete career development solutions. From job search to upskilling portfolio and interview preparation, we can guide you at every step of your career.\nSynergisticIT spares no efforts to connect you with a large network of tech giants, including Google, Apple, PayPal, Dell, Cisco, Client, etc. Presently, we are actively looking for entry-level Java Developers with a driven mindset. Get the right opportunity and gain experience in building web-centric solutions on Java.\n\nWho Should Apply : Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates or anyone looking to make their career in IT Industry\n\nWe also assist in filing for STEM extension and H1b and Green card filing.\n\nCandidates who are serious about their future in the IT Industry and have set big goals for themselves.\n\nCandidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill Enhancement Programs if the candidates are missing skills or experience which our clients need with great outcomes\n\nCandidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement\n\nCandidates who Lack Experience\nHave had a break in careers\nLack Technical Competency\ncandidates who want to get employed and make a career in the Tech Industry\n\nPlease also check the below links :\n\nhttps://www.synergisticit.com/candidate-outcomes/\n\nhttps://www.synergisticit.com/java-track/\n\nhttps://www.synergisticit.com/data-science-track/\n\nhttps://www.synergisticit.com/which-is-the-best-option-for-tech-job-seekers-staffing-companies-consulting-companies-bootcamps-or-synergisticit/\n\nhttps://www.synergisticit.com/contact-us/\n\nIf the skills are not a match candidates can opt for Skill enhancement. Or their resume can be sent out to clients to see if responses are achievable\nREQUIRED SKILLS For Java/Software Programmers :\n• Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n• Highly motivated, self-learner, and technically inquisitive\n• Experience in programming language Java and understanding of the software development life cycle\n• Knowledge of Core Java , javascript , C++ or software programming\n• Spring boot, Microservices and REST API's experience\n• Excellent written and verbal communication skills\nFor data Science/Machine learning\nREQUIRED SKILLS\n• Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n• Highly motivated, self-learner, and technically inquisitive\n• Experience in programming language Java and understanding of the software development life cycle\n• Knowledge of Statistics, Python, data visualization tools\n• Excellent written and verbal communication skills\nPreferred skills: NLP, Text mining, Tableau, Time series analysis\nTechnical skills are required by clients for selection even if its Junior or entry level position each additional Technical skill helps a candidate's resume to be picked by clients over other job seekers.\nClients hire candidates with the right technical skills which they need and reject candidates who lack the required technical skills.\n\nNo third party candidates or c2c candidates\nPlease apply to the posting\nNo phone calls please. Shortlisted candidates would be reached out",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1687478400,
+        "job_posted_at_datetime_utc": "2023-06-23T00:00:00.000Z",
+        "job_city": "Dallas",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 32.776665,
+        "job_longitude": -96.79699,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=XWighWMc97OoKReOAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-11-07T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1699315200,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 75000,
+        "job_max_salary": 125000,
+        "job_salary_currency": "USD",
+        "job_salary_period": "YEAR",
+        "job_highlights": {
+          "Qualifications": [
+            "Get the right opportunity and gain experience in building web-centric solutions on Java",
+            "Who Should Apply : Recent Computer science/Engineering /Mathematics/Statistics or Science Graduates or anyone looking to make their career in IT Industry",
+            "Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
+            "Highly motivated, self-learner, and technically inquisitive",
+            "Experience in programming language Java and understanding of the software development life cycle",
+            "Knowledge of Core Java , javascript , C++ or software programming",
+            "Spring boot, Microservices and REST API's experience",
+            "Excellent written and verbal communication skills",
+            "For data Science/Machine learning",
+            "Knowledge of Statistics, Python, data visualization tools",
+            "Technical skills are required by clients for selection even if its Junior or entry level position each additional Technical skill helps a candidate's resume to be picked by clients over other job seekers"
+          ],
+          "Responsibilities": [
+            "Or their resume can be sent out to clients to see if responses are achievable"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "15-1132.00: Software Developers, Applications"
+        ]
+      },
+      {
+        "employer_name": "SynergisticIT",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "ZipRecruiter",
+        "job_id": "7oKm_SkxjLxpFtVuAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "PYTHON DEVELOPER(ENTRY LEVEL)",
+        "job_apply_link": "https://www.ziprecruiter.com/c/SynergisticIT/Job/PYTHON-DEVELOPER(ENTRY-LEVEL)/-in-Austin,TX?jid=95b95b82c4f3b4bd",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6578,
+        "apply_options": [
+          {
+            "publisher": "ZipRecruiter",
+            "apply_link": "https://www.ziprecruiter.com/c/SynergisticIT/Job/PYTHON-DEVELOPER(ENTRY-LEVEL)/-in-Austin,TX?jid=95b95b82c4f3b4bd",
+            "is_direct": false
+          }
+        ],
+        "job_description": "SynergisticIT is committed to fast track your career by increasing your career prospects. We provide a broad spectrum of career advancement solutions. Whether you are struggling to find a job or hustling to get noticed by the hiring managers, we can help you stand out in your professional endeavors.\nTrusted by thousands of tech enthusiasts, SynergisticIT can bridge your skill and knowledge gap to make you competent for high-tech jobs. Our invaluable business acumen helps us assist thriving job seekers in achieving their career goals.\nCurrently, we are looking for adept entry-level Python Developers to work with our elite group of clients, namely Client, PayPal, Expedia Group, Google, Apple, Cognizant, Ford, Cisco, Walmart Labs, etc.\n\nRequired Qualifications and Background\n• Bachelor's degree or Master's degree in Computer Science, Electrical Engineering, Computer Engineering, Information Systems, IT, Mathematics,\n• Mathematics or Statistics background\nSkills Required\n• 0 to 2 years of experience in Python development\n• Deep understanding of the software development life cycle\n• Knowledge of Linear Algebra, Statistics, and Mathematics concepts\n• Excellent written and verbal communication skills\n• Technically inquisitive, self-learner, team player, and highly motivated\n• Strong work ethics and creative problem-solving abilities\n\nPreferred Skills\n• Deep Learning\n• Data visualization\n• Scal\n• NLP\n• Django\nRoles and Responsibilities\ns an entry-level Python Developer, you need to perform the following duties:\n• Write server-side web application logic\n• Write scalable and effective codes in Python\n• Develop backend components to boost overall application's performance\n• Executing tests and fixing bugs in applications and software\n• Implement data protection and security solutions\n• Connect applications with third-party web services\n• Support frontend developers by integrating UI elements into Python applications\n\nBenefits\n• Competitive salary\n• Flexible work schedule & part-time off\n• E-verified\n• H1B Filing\n• No relocation\n• On job technical support\n• Skill Enhancement\n• Opportunity to work with Fortune 500 Companies\n\nWho can apply?\nThis job opportunity is best suited for recent IT graduates who want to make a mark in the tech industry and upskill their IT talent. Anyone with a basic knowledge of Python programming or having some experience in building Python software solutions can apply for this position.\nNo third-party candidates or c2c candidates\n\nIf you are interested, please apply to the posting.\n\nNo phone calls please, Shortlisted candidates would be reached out.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1626998400,
+        "job_posted_at_datetime_utc": "2021-07-23T00:00:00.000Z",
+        "job_city": "Austin",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 30.267153,
+        "job_longitude": -97.74306,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=7oKm_SkxjLxpFtVuAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-11-06T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1699228800,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 65000,
+        "job_max_salary": 140000,
+        "job_salary_currency": "USD",
+        "job_salary_period": "YEAR",
+        "job_highlights": {
+          "Qualifications": [
+            "Bachelor's degree or Master's degree in Computer Science, Electrical Engineering, Computer Engineering, Information Systems, IT, Mathematics,",
+            "Mathematics or Statistics background",
+            "0 to 2 years of experience in Python development",
+            "Deep understanding of the software development life cycle",
+            "Knowledge of Linear Algebra, Statistics, and Mathematics concepts",
+            "Excellent written and verbal communication skills",
+            "Technically inquisitive, self-learner, team player, and highly motivated",
+            "Strong work ethics and creative problem-solving abilities",
+            "Support frontend developers by integrating UI elements into Python applications"
+          ],
+          "Responsibilities": [
+            "Write server-side web application logic",
+            "Write scalable and effective codes in Python",
+            "Develop backend components to boost overall application's performance",
+            "Executing tests and fixing bugs in applications and software",
+            "Implement data protection and security solutions",
+            "Connect applications with third-party web services"
+          ],
+          "Benefits": [
+            "Competitive salary",
+            "Flexible work schedule & part-time off",
+            "No relocation",
+            "On job technical support",
+            "Opportunity to work with Fortune 500 Companies"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "15-1132.00: Software Developers, Applications"
+        ]
+      },
+      {
+        "employer_name": "Cognizant Technology Solutions",
+        "employer_logo": "https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/logos/COG-Logo-2022.svg",
+        "employer_website": "http://www.cognizant.com",
+        "employer_company_type": "Computer Services",
+        "job_publisher": "Learn4Good",
+        "job_id": "DDwINZwgd8D8Xx8RAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Lead Python Developer​/Remote",
+        "job_apply_link": "https://www.learn4good.com/jobs/online_remote/info_technology/2625894092/e/",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.4205,
+        "apply_options": [
+          {
+            "publisher": "Learn4Good",
+            "apply_link": "https://www.learn4good.com/jobs/online_remote/info_technology/2625894092/e/",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Position: Lead Python Developer (Remote))\n\nCognizant's Digital Engineering practice is seeking a highly qualified Lead Python Developer (Remote) with experience developing and building high-performing, scalable, enterprise applications. You will be part of a digital software team that works on high-demand applications. Our engineers have a passion for high-quality, reliable and maintainable code. You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users.\n\nOur engineers are agile and retrospective, and not afraid to identify what we're doing wrong, so we can fix it, and what we're doing right, so we can improve on it. Above all, we judge success by the success of our team and the happiness of our customers.\n\nCognizant Digital Engineering If you're like us, you've got big ideas. At Cognizant, we're exploring new ideas every day. We help industry leading companies reinvent their business models and innovate products that create new value-by connecting people with things, insights and experiences. Cognizant digital engineering designs, engineers and delivers digital products and experiences that drive digital-first business models. We offer the most comprehensive digital engineering expertise and client-centric methodology for sustainable innovation.\n\nLocation:\n\nPlano, TX or Remote\n• * You must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.**\n\nResponsibilities\n• Coordinating with development teams to determine application requirements.\n• Writing scalable code using Python programming language.\n• Testing and debugging applications.\n• Developing back-end components.\n• Integrating user-facing elements using server-side logic.\n• Assessing and prioritizing client feature requests.\n• Integrating data storage solutions.\n• Coordinating with front-end developers.\n• Reprogramming existing databases to improve functionality.\n• Developing digital tools to monitor online traffic.\n• Develop runbooks and workflow\n\nQualifications\n• At least 10 years of experience in software development.\n• Strong Experience with Python, Flask, Django, Fast API, Pytest and Unit Test.\n• Experience with AWS- RDS, ECS, S3, R53, SDK-AWS-PYTHON, IAM, security, network, etc.\n• Experience with CICD, Jenkins, Kafka, automation pipeline and Docker\n\nWhy Choose Cognizant?\n\nIt takes a lot to succeed in today's fast-paced market, and Cognizant Technology Solutions has become a leader in the industry. We love big ideas and even bigger dreams! We stand out because we put human experiences at the core. Our associates enjoy robust benefits and training opportunities from our industry-recognized, award-winning Academy team. You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies.\n\nEverything we do at Cognizant we do with passion-for our clients (fortune 100 companies), our communities, and our organization. It's the defining attribute that we look for in our people.\n\nIf you love ambiguity, excited by change, and excel through autonomy, we'd love to hear from you!\n\nAbout Cognizant Digital Engineering\n\nWell-designed software transcends digital technology, going beyond the fulfillment of basic requirements to focus instead on human needs. Within Cognizant Digital Engineering, we help clients develop software products that transform human insights into tangible, production-ready digital solutions. We also work with our clients to scale their native cloud applications. Using insights from the lived experiences of our consumers, we seamlessly replace traditional service strategies with engaging, precise, and direct digital applications.\n\nDesigning phenomenal software is vital to success in the digital economy-and we understand that a human-centric approach is key to this design.\n\nNASDAQ: CTSH\n\nEmployee Status :\nFull Time Employee\n\nShift :\nDay Job\n\nTravel :\nNo\n\nJob Posting :\nSep 21 2023\n\nAbout Cognizant\nCognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world.\n\nLearn how Cognizant helps clients lead with digital at or follow us @USJobsCognizant.\n\nApplicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government issued g each interview.\n\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other…",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1696723200,
+        "job_posted_at_datetime_utc": "2023-10-08T00:00:00.000Z",
+        "job_city": "Plano",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 33.019844,
+        "job_longitude": -96.69888,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=DDwINZwgd8D8Xx8RAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-04-07T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1712448000,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 120,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": true
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "You must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.**",
+            "At least 10 years of experience in software development",
+            "Strong Experience with Python, Flask, Django, Fast API, Pytest and Unit Test",
+            "Experience with AWS- RDS, ECS, S3, R53, SDK-AWS-PYTHON, IAM, security, network, etc",
+            "Experience with CICD, Jenkins, Kafka, automation pipeline and Docker",
+            "Designing phenomenal software is vital to success in the digital economy-and we understand that a human-centric approach is key to this design"
+          ],
+          "Responsibilities": [
+            "You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users",
+            "Coordinating with development teams to determine application requirements",
+            "Writing scalable code using Python programming language",
+            "Testing and debugging applications",
+            "Developing back-end components",
+            "Integrating user-facing elements using server-side logic",
+            "Assessing and prioritizing client feature requests",
+            "Integrating data storage solutions",
+            "Coordinating with front-end developers",
+            "Reprogramming existing databases to improve functionality",
+            "Developing digital tools to monitor online traffic",
+            "Develop runbooks and workflow"
+          ],
+          "Benefits": [
+            "You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "Python",
+          "Backend Developer",
+          "Senior Developer",
+          "Software Engineer"
+        ],
+        "job_naics_code": "541511",
+        "job_naics_name": "Custom Computer Programming Services"
+      },
+      {
+        "employer_name": "SynergisticIT",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UrAK1LCetSvno8PT3nMB4vJV4VdEEPN7PrgC&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "LinkedIn",
+        "job_id": "5fw7zKNkHUMiMryvAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Entry Level Python Developer",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/entry-level-python-developer-at-synergisticit-3649697167",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5863,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/entry-level-python-developer-at-synergisticit-3649697167",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jooble",
+            "apply_link": "https://jooble.org/jdp/-3604869579009905704/Entry-Level-Python-Developer-San-Antonio%2C-TX",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee",
+            "apply_link": "https://us.bebee.com/job/20231002-ce2852d951686f95e29582b9e7c6f0a4",
+            "is_direct": false
+          },
+          {
+            "publisher": "Lensa",
+            "apply_link": "https://lensa.com/entry-level-python-developer-jobs/san-antonio/jd/d4730d710fae10c96a2680790746c17e",
+            "is_direct": false
+          },
+          {
+            "publisher": "Trabajo.org",
+            "apply_link": "https://us.trabajo.org/job-1275-20231003-f5b44a196579a73cabf5d66afd05aae9",
+            "is_direct": false
+          },
+          {
+            "publisher": "San Antonio, TX - Geebo",
+            "apply_link": "https://sanantonio-tx.geebo.com/jobs-online/view/id/1326224346-entry-level-python-developer-/",
+            "is_direct": true
+          }
+        ],
+        "job_description": "Job Description SYNERGISTICIT wants every candidate to know that the Job Market is Challenging and to stand out you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need\n\nWe are looking for Jobseekers wanting to file H1b visa\n\nPosition open to all visas and US citizens\n\nWe at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, Client, visa, walmart labs etc to name a few.\n\nWe have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java developers, Data analysts/ Data Scientists.\n\nWe welcome candidates with all visas and citizens to apply.\n\nWe assist in filing for STEM extension and also for H1b and Green card filing to Candidates looking to upskill/enhance their IT skills.\n\nCandidates who are serious about their future in the IT Industry and have set big goals for themselves.\n\nCandidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. We also offer Skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes\n\nCandidates can benefit from skill enhancement if they fall into the below categories. If they are qualified with enough skills then no need for skill enhancement\n\nWe are looking for Jobseekers wanting to file H1b visa\n\nPosition open to all visas and US citizens\n\nCandidates Who Lack Experience\n\nHave had a break in careers\n\nLack Technical Competency\n\nDifferent visa candidates who want to get employed and settle down in the USA\n\nplease also check the below links\n\nhttps://www.synergisticit.com/candidate-outcomes/\n\nhttps://www.synergisticit.com/java-track/\n\nhttps://www.synergisticit.com/data-science-track/\n\nhttps://www.synergisticit.com/blog/\n\nRequired Skills\n• Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n• Highly motivated, self-learner, and technically inquisitive\n• Experience in programming language Java and understanding of the software development life cycle\n• Knowledge of Statistics, Python, data visualization tools\n• Excellent written and verbal communication skills\nPreferred skills: NLP, Text mining, Tableau, Time series analysis\n\nPlease understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients.\n\nNo third party candidates or c2c candidates\n\nTo apply for this position, please apply to the posting\n\nNo phone calls please . Shortlisted candidates would be reached out",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1686421506,
+        "job_posted_at_datetime_utc": "2023-06-10T18:25:06.000Z",
+        "job_city": "San Antonio",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 29.42519,
+        "job_longitude": -98.49459,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=5fw7zKNkHUMiMryvAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-29T22:52:08.000Z",
+        "job_offer_expiration_timestamp": 1698619928,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": true,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Different visa candidates who want to get employed and settle down in the USA",
+            "Bachelors degree or Masters degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
+            "Highly motivated, self-learner, and technically inquisitive",
+            "Experience in programming language Java and understanding of the software development life cycle",
+            "Knowledge of Statistics, Python, data visualization tools",
+            "Excellent written and verbal communication skills",
+            "Please understand skills are required by clients for selection even if its Junior or entry level position the additional skills are the only way a candidate can be picked by clients"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Cognizant United States, Cognizant Technology Solutions",
+        "employer_logo": "https://www.cognizant.com/content/dam/cognizant/en_us/dotcom/logos/COG-Logo-2022.svg",
+        "employer_website": "http://www.cognizant.com",
+        "employer_company_type": "Computer Services",
+        "job_publisher": "Cognizant Careers",
+        "job_id": "R1RRqiVhSQ0R-Dg2AAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Sr. Python Developer",
+        "job_apply_link": "https://careers.cognizant.com/global/en/job/00056090111/Sr-Python-Developer",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.7977,
+        "apply_options": [
+          {
+            "publisher": "Cognizant Careers",
+            "apply_link": "https://careers.cognizant.com/global/en/job/00056090111/Sr-Python-Developer",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee",
+            "apply_link": "https://us.bebee.com/job/20230923-2272704170d42471db41d1adf0b9cc51",
+            "is_direct": false
+          },
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/sr-python-developer-at-cognizant-3733694299",
+            "is_direct": false
+          },
+          {
+            "publisher": "Indeed",
+            "apply_link": "https://www.indeed.com/viewjob?jk=6d9833bc278f4758",
+            "is_direct": false
+          },
+          {
+            "publisher": "Diversity Jobs",
+            "apply_link": "https://diversityjobs.com/career/6516704/Sr-Python-Developer-Texas-Plano",
+            "is_direct": false
+          },
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com/job/TvkruPhYUX91UnDjPyRImeomL6PIYk16ST7ahSWGvbRRZP7-5ji2GQ",
+            "is_direct": false
+          },
+          {
+            "publisher": "Glassdoor",
+            "apply_link": "https://www.glassdoor.com/job-listing/sr-python-developer-cognizant-technology-solutions-JV_IC1140045_KO0,19_KE20,50.htm?jl=1008906667090",
+            "is_direct": false
+          },
+          {
+            "publisher": "KGET Jobs",
+            "apply_link": "https://jobs.kget.com/jobs/sr.-python-developer-plano-texas/1129132876-2/",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Cognizant’s Digital Engineering practice is seeking a highly qualified Senior Python Developer with experience developing and building high-performing, scalable, enterprise applications. You will be part of a digital software team that works on high-demand applications. Our engineers have a passion for high-quality, reliable and maintainable code. You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users. Our engineers are agile and retrospective, and not afraid to identify what we’re doing wrong, so we can fix it, and what we’re doing right, so we can improve on it. Above all, we judge success by the success of our team and the happiness of our customers.\n\nCognizant Digital Engineering If you’re like us, you’ve got big ideas. At Cognizant, we’re exploring new ideas every day. We help industry leading companies reinvent their business models and innovate products that create new value—by connecting people with things, insights and experiences. Cognizant digital engineering designs, engineers and delivers digital products and experiences that drive digital-first business models. We offer the most comprehensive digital engineering expertise and client-centric methodology for sustainable innovation.\n\nLocation: Plano, TX (onsite)\n• *You must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.**\n\nResponsibilities\n• Designing and implementing robust applications writing effective and scalable Python codes.\n• Debugging applications to ensure low-latency and high-availability.\n• Integrating user-facing elements with server-side logic.\n• Implementing security and data protection.\n• Accommodating various data storage solution.\n\nQualifications\n• At least 6 years of experience in software development.\n• Strong experience with Python3, Flask and JavaScript.\n• Shall have good knowledge Django, Flask or similar Python frameworks.\n• JavaScript, PostgreSQL DB Administration, SQL.\n• Nice to have skills: Java, Spring Boot and Azure/AWS /GCP.\n\nTravel: 0-5%\n\nWhy Choose Cognizant?\n\nIt takes a lot to succeed in today’s fast-paced market, and Cognizant Technology Solutions has become a leader in the industry. We love big ideas and even bigger dreams! We stand out because we put human experiences at the core. Our associates enjoy robust benefits and training opportunities from our industry-recognized, award-winning Academy team. You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies.\n\nEverything we do at Cognizant we do with passion—for our clients (fortune 100 companies), our communities, and our organization. It’s the defining attribute that we look for in our people.\n\nIf you love ambiguity, excited by change, and excel through autonomy, we’d love to hear from you!\n\nAbout Cognizant Digital Engineering\n\nWell-designed software transcends digital technology, going beyond the fulfillment of basic requirements to focus instead on human needs. Within Cognizant Digital Engineering, we help clients develop software products that transform human insights into tangible, production-ready digital solutions. We also work with our clients to scale their native cloud applications. Using insights from the lived experiences of our consumers, we seamlessly replace traditional service strategies with engaging, precise, and direct digital applications. Designing phenomenal software is vital to success in the digital economy—and we understand that a human-centric approach is key to this design.\n\nwww.cognizant.com\n\nNASDAQ: CTSH",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1696619811,
+        "job_posted_at_datetime_utc": "2023-10-06T19:16:51.000Z",
+        "job_city": "Plano",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 33.019844,
+        "job_longitude": -96.69888,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=R1RRqiVhSQ0R-Dg2AAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 72,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": [
+          "software development",
+          "python",
+          "java",
+          "javascript",
+          "agile",
+          "sql",
+          "python3",
+          "django",
+          "postgresql",
+          "python codes",
+          "aws",
+          "flask",
+          "gcp",
+          "debugging",
+          "spring boot",
+          "debugging applications",
+          "enterprise applications",
+          "data protection",
+          "data storage",
+          "security",
+          "writing",
+          "evaluating",
+          "highly qualified",
+          "Senior Python Developer",
+          "Lead Python Developer",
+          "Python Developer",
+          "Data Engineer & Python Developer",
+          "Senior Full Stack/Python Engineer",
+          "Senior Python Engineer",
+          "Senior Python Full Stack Engineer",
+          "Python Full Stack Developer",
+          "Senior Software Engineer - Python & Django & Flask",
+          "Senior Software Development Engineer - Python & Sql & Git"
+        ],
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": true
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "At least 6 years of experience in software development",
+            "Strong experience with Python3, Flask and JavaScript",
+            "Shall have good knowledge Django, Flask or similar Python frameworks",
+            "JavaScript, PostgreSQL DB Administration, SQL",
+            "Nice to have skills: Java, Spring Boot and Azure/AWS /GCP",
+            "Designing phenomenal software is vital to success in the digital economy—and we understand that a human-centric approach is key to this design"
+          ],
+          "Responsibilities": [
+            "You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users",
+            "Designing and implementing robust applications writing effective and scalable Python codes",
+            "Debugging applications to ensure low-latency and high-availability",
+            "Integrating user-facing elements with server-side logic",
+            "Implementing security and data protection",
+            "Accommodating various data storage solution"
+          ],
+          "Benefits": [
+            "You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "Digital"
+        ],
+        "job_naics_code": "541511",
+        "job_naics_name": "Custom Computer Programming Services"
+      },
+      {
+        "employer_name": "Insight Global",
+        "employer_logo": "https://images.squarespace-cdn.com/content/5f7f984c3ca20d1d55b276f7/1619793549819-L54X3W9Z5RD277UPNH9S/IGLogoPublic.png?content-type=image%2Fpng",
+        "employer_website": "http://www.insightglobal.com",
+        "employer_company_type": "Staffing",
+        "job_publisher": "LinkedIn",
+        "job_id": "YpNyKzsK655dhe0xAAAAAA==",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "Python Developer",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/python-developer-at-insight-global-3726992782",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5782,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/python-developer-at-insight-global-3726992782",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Must-haves\n\nMust be located in Sunnyvale, CA Austin, TX or Bentonville, AR\n\nVery strong with Python 7+ years of experience\n\n-Experience with API building\n\n-Experience with Flask\n\n-Experience with NoSQL\n\nA Client is looking for python engineers to help assist the performance engineering team in Sunnyvale, Bettonville or Austin (Sunnyvale is preferred). They will be supporting the resiliency and performance space where they will assist with building from the ground up as there are multiple features that need to be developed. Since this team follows a DevOps model, they are working towards production. 70% of time will be coding and 30% of the time will be prioritization and collaborating through process. They will help with the development, maintenance and troubleshooting. Join this team of software engineers and industry experts who are at the forefront of the next retail disruption. This team helps to streamline innovation through cutting edge technology that improves the user shopping experience by mitigating risks that could occur to user shopping experience before the incidents occur. This role is hybrid onsite - Tuesday and Wednesday.",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1696250616,
+        "job_posted_at_datetime_utc": "2023-10-02T12:43:36.000Z",
+        "job_city": "Dallas",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 32.776665,
+        "job_longitude": -96.79699,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=YpNyKzsK655dhe0xAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-11-01T12:43:36.000Z",
+        "job_offer_expiration_timestamp": 1698842616,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 84,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 50,
+        "job_max_salary": 60,
+        "job_salary_currency": "USD",
+        "job_salary_period": "HOUR",
+        "job_highlights": {
+          "Qualifications": [
+            "Very strong with Python 7+ years of experience",
+            "Experience with API building",
+            "Experience with Flask",
+            "Experience with NoSQL"
+          ],
+          "Responsibilities": [
+            "They will be supporting the resiliency and performance space where they will assist with building from the ground up as there are multiple features that need to be developed",
+            "70% of time will be coding and 30% of the time will be prioritization and collaborating through process",
+            "They will help with the development, maintenance and troubleshooting"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_naics_code": "561311",
+        "job_naics_name": "Employment Placement Agencies"
+      },
+      {
+        "employer_name": "SynergisticIT",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "ZipRecruiter",
+        "job_id": "_2zrRnwarpf3YwwEAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Entry Level Python Developer",
+        "job_apply_link": "https://www.ziprecruiter.com/c/SynergisticIT/Job/Entry-Level-Python-Developer/-in-Houston,TX?jid=b5db608a2de13d7e",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.558,
+        "apply_options": [
+          {
+            "publisher": "ZipRecruiter",
+            "apply_link": "https://www.ziprecruiter.com/c/SynergisticIT/Job/Entry-Level-Python-Developer/-in-Houston,TX?jid=b5db608a2de13d7e",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee",
+            "apply_link": "https://us.bebee.com/job/20231002-eb1fb84cb35560553e71ea0192bd45f1",
+            "is_direct": false
+          },
+          {
+            "publisher": "Trabajo.org",
+            "apply_link": "https://us.trabajo.org/job-640-20230923-b187030f49f7e173284515793bf020af",
+            "is_direct": false
+          },
+          {
+            "publisher": "Learn4Good",
+            "apply_link": "https://www.learn4good.com/jobs/houston/texas/info_technology/2618706988/e/",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobilize",
+            "apply_link": "https://www.jobilize.com/job/us-tx-houston-entry-level-python-developer-synergisticit-hiring-now",
+            "is_direct": false
+          }
+        ],
+        "job_description": "About Us:\nSynergistic IT is a full-service staffing and placement firm servicing client in America for the past 12+ years. We are dedicated towards fulfilling the IT needs of our clients. From staffing to full implementation of projects we provide the highest quality IT Services. We Intend to deliver exceptional student outcome. We don't just help you secure a tech job but build a solid career in technology.\n\nJob Description:\n• Should know how to work in large verities of libraries, frameworks, and modules\n• Duck typing, string, tuple and Lambda knowledge required\n• Django Frame work required\n• Worked on Django model, CBV, Django CRUD operation\n\nSkills Required-\n• Knowledge of Python web frameworks and event-driven programming in Python.\n• Basic understanding of front-end technologies.\n• High attention to detail.\n• Excellent communication and problem-solving skills.\n• Proficient understanding of code versioning tools\n• Know the classes of SCALA, Traits of SCALA, and Collection of SCALA\n\nEducation Requirement: -\nBachelors, Masters in Computer Science/ Computer Engineering/ Information Systems/Information Technology/ Electrical Engineering/ Mechanical Engineering.\n\nBenefits:\n• On Job Technical support\n• E- verified\n• Help to get H1B Employer.\n• Full time position\n\nCandidate who are missing the required skills, might be provided an option to enhance their skills, so that they can also apply for the role and can make a career in IT industry.\n\nIf you do respond via e-mail, please include a daytime phone number so that we can reach you. In considering candidates, time is of the essence, so please respond ASAP. Thank you",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1670227200,
+        "job_posted_at_datetime_utc": "2022-12-05T08:00:00.000Z",
+        "job_city": "Houston",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 29.760427,
+        "job_longitude": -95.369804,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=_2zrRnwarpf3YwwEAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-11-07T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1699315200,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": false,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": true,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Knowledge of Python web frameworks and event-driven programming in Python",
+            "Basic understanding of front-end technologies",
+            "High attention to detail",
+            "Excellent communication and problem-solving skills",
+            "Proficient understanding of code versioning tools",
+            "Know the classes of SCALA, Traits of SCALA, and Collection of SCALA",
+            "Bachelors, Masters in Computer Science/ Computer Engineering/ Information Systems/Information Technology/ Electrical Engineering/ Mechanical Engineering"
+          ],
+          "Responsibilities": [
+            "Should know how to work in large verities of libraries, frameworks, and modules",
+            "Django Frame work required",
+            "Worked on Django model, CBV, Django CRUD operation"
+          ],
+          "Benefits": [
+            "On Job Technical support",
+            "Full time position"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "15-1132.00: Software Developers, Applications"
+        ]
+      },
+      {
+        "employer_name": "Prime Software Technologies Inc.",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "Dice.com",
+        "job_id": "wJ0Mm_lxrButWAWZAAAAAA==",
+        "job_employment_type": "TEMPORARY",
+        "job_title": "Python Developer- Local to Dallas TX",
+        "job_apply_link": "https://www.dice.com/job-detail/474e6abe-de5b-416c-a7f6-644481426d27",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.6639,
+        "apply_options": [
+          {
+            "publisher": "Dice.com",
+            "apply_link": "https://www.dice.com/job-detail/474e6abe-de5b-416c-a7f6-644481426d27",
+            "is_direct": true
+          },
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://www.linkedin.com/jobs/view/python-developer-local-to-dallas-tx-at-prime-software-technologies-inc-3733407729",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Title: Python Developer\n\nLocation: Dallas, TX (Hybrid)\n\nDuration: 12+ Months\n\nThere will be 2 rounds of interview. Both interviews will be held over MS Teams Video. However, candidate have to come in-person at Client office in Dallas, TX for BOTH the rounds. The laptop and hardware needed will be provided to the candidate.\n\nRequirements:\n\n5+ years of professional experience with Python.\n\n3+ years of hands-on experience with AWS Lambda and serverless application development.\n\nStrong expertise in Kafka or a similar data streaming platform.\n\nProficient understanding of distributed computing principles.\n\nExperience with AWS services such as S3, EC2 and Route53.\n\nStrong understanding of best practices related to security, performance, and disaster recovery.\n\nProficient understanding of code versioning tools, such as Git.\n\nPreferred Qualifications:\n\nAWS Certification AWS Developer or Associate Architect.\n\nExperience with other AWS serverless offerings (e.g., AWS Step Functions, API Gateway).\n\nFamiliarity with other AWS or cloud-native data processing tools and platforms.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1696014917,
+        "job_posted_at_datetime_utc": "2023-09-29T19:15:17.000Z",
+        "job_city": "Dallas",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 32.776665,
+        "job_longitude": -96.79699,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=wJ0Mm_lxrButWAWZAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-11-06T15:30:46.000Z",
+        "job_offer_expiration_timestamp": 1699284646,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 60,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": [
+          "Python",
+          "S3",
+          "Lambda",
+          "asw",
+          "EC2"
+        ],
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": true
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "5+ years of professional experience with Python",
+            "3+ years of hands-on experience with AWS Lambda and serverless application development",
+            "Strong expertise in Kafka or a similar data streaming platform",
+            "Proficient understanding of distributed computing principles",
+            "Experience with AWS services such as S3, EC2 and Route53",
+            "Strong understanding of best practices related to security, performance, and disaster recovery",
+            "Proficient understanding of code versioning tools, such as Git",
+            "AWS Certification AWS Developer or Associate Architect",
+            "Experience with other AWS serverless offerings (e.g., AWS Step Functions, API Gateway)",
+            "Familiarity with other AWS or cloud-native data processing tools and platforms"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Company Name",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "Radley James",
+        "job_id": "ZLHPTnm0vUZhlFhdAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Python Developer – Houston, TX (Hybrid)",
+        "job_apply_link": "https://www.radleyjames.com/job/python-developer-houston-tx-hybrid/",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6799,
+        "apply_options": [
+          {
+            "publisher": "Radley James",
+            "apply_link": "https://www.radleyjames.com/job/python-developer-houston-tx-hybrid/",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee",
+            "apply_link": "https://us.bebee.com/job/20230917-59e7943121249505982d53e747c55b0e",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jooble",
+            "apply_link": "https://jooble.org/jdp/8291217604751556103/Python-Developer-+-Houston%2C-TX-(Hybrid)-Houston%2C-TX",
+            "is_direct": false
+          },
+          {
+            "publisher": "Learn4Good",
+            "apply_link": "https://www.learn4good.com/jobs/houston/texas/info_technology/2609922266/e/",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Python Developer\n\nHouston, Texas, United States (Hybrid)\n\nA leading hedge fund with a global reputation for being one of the best in the industry is looking to add a mid to senior developer to its Houston office.\n\nThis individual will be working on expanding their global analytics and trading-related tools and APIs, liaising between external and internal sources and tools of data and databases to create new pipelines as well as helping create analytics apps to be used by the traders, data scientists and quants.\n\nQualifications:\n• Computer science or related degree from a top university\n• 3+ years experience in Python, Beautiful Soup, Selenium, etc.\n• Experience with AWS, docker, Kubernetes are all a plus\n\nIndustry-leading compensation on offer with exceptional bonuses\n\nIf interested please get in touch by applying or at Volkan.ozbicer@radleyjames.com with your resume if you have further questions.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1694595106,
+        "job_posted_at_datetime_utc": "2023-09-13T08:51:46.000Z",
+        "job_city": "Houston",
+        "job_state": "TX",
+        "job_country": "US",
+        "job_latitude": 29.760427,
+        "job_longitude": -95.369804,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+texas,+usa&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+texas,+usa&htidocid=ZLHPTnm0vUZhlFhdAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 36,
+          "experience_mentioned": true,
+          "experience_preferred": true
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+          "Qualifications": [
+            "Computer science or related degree from a top university",
+            "3+ years experience in Python, Beautiful Soup, Selenium, etc"
+          ],
+          "Responsibilities": [
+            "This individual will be working on expanding their global analytics and trading-related tools and APIs, liaising between external and internal sources and tools of data and databases to create new pipelines as well as helping create analytics apps to be used by the traders, data scientists and quants"
+          ],
+          "Benefits": [
+            "Industry-leading compensation on offer with exceptional bonuses"
+          ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4"
+      }
+    ]
+  }
+  
